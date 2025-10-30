@@ -13,3 +13,9 @@
 // days.unshift("Monday")
 // console.log(days);
 
+
+
+let colors = ['red', 'green', 'orange', 'teal', 'blue', 'purple'];
+
+colors.shift();
+console.log(colors);
