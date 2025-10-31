@@ -1,0 +1,12 @@
+h1{
+    color: rebeccapurple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+}
+button{
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    background-color: rgb(51, 134, 153);
+    margin: 10px 5px;
+}
